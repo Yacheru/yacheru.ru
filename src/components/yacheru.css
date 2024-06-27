@@ -1,0 +1,36 @@
+.inner-container {
+  width: 100%;
+  height: 100%;
+}
+
+.top-container {
+  gap: 5px;
+}
+
+.nickname {
+  font-size: 5rem;
+}
+
+.nickname span {
+  color: #500000;
+}
+
+.navbar {
+  padding-top: 10px;
+}
+
+.list-item {
+  color: #500000;
+  font-size: 2rem;
+}
+
+.under-text {
+  font-size: 1.5rem;
+  color: #500000;
+  gap: 25px;
+}
+
+.under-text div {
+  width: 50%;
+  justify-content: space-between;
+}

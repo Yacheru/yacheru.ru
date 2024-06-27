@@ -1,10 +1,9 @@
-import Nothing from "./components/nothing.jsx"
+import Yacheru from "./components/yacheru.jsx"
 
 function App() {
-
   return (
-    <div>
-      <Nothing />
+    <div className={'container'}>
+      <Yacheru />
     </div>
   )
 }
